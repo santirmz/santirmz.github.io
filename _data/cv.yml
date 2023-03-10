@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Jorge Santiago Ramírez-Núñez
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
@@ -11,22 +11,27 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: University of Colorado Boulder
+      institution: Ph.D. Civil Engineering
+      year: Exp. 2026
       description:
-        - Description 1.
+        - Hydrology, Water Resources and Environmental Fluid Mechanics
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Texas A&M Univeristy
+      institution: M.S. Water Management & Hydrological Sciences
+      year: 2022
       description:
-        - Description 1.
+        - Thesis "Analyzing the Effects of Variability of Precipitation on the Performance of Enhanced Infiltration Systems in Harris County, TX"
         - Description 2.
+    - title: Universidad de Guadalajara
+      institution: B.S. Civil Engineering
+      year: 2018
+      description:
+        - Emphasis in Hydraulics
 
 - title: Experience
   type: time_table
