@@ -1,12 +1,9 @@
-- title: General Information
+- title: Jorge Santiago Ramírez Núñez
   type: map
   contents:
-    - name: Full Name
-      value: Jorge Santiago Ramírez-Núñez
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+
+    - name: santiago.ramireznunez@colorado.edu
+    - name: 4001 Discovery Drive Boulder, CO 
 
 - title: Education
   type: time_table
