@@ -12,7 +12,7 @@
       year: Exp. 2026
       description:
         - Hydrology, Water Resources and Environmental Fluid Mechanics
-        - Description 2.
+        - Advisor: Dr Aditi Bhaskar
         - title: Description 3.
           contents:
             - Sub-description 1.
@@ -22,7 +22,7 @@
       year: 2022
       description:
         - Thesis "Analyzing the Effects of Variability of Precipitation on the Performance of Enhanced Infiltration Systems in Harris County, TX"
-        - Description 2.
+        - Advisor: Dr Gretchen Miller
     - title: Universidad de Guadalajara
       institution: B.S. Civil Engineering
       year: 2018
@@ -32,9 +32,9 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Graduate Research Assistant
-      institution: University of Colorado Boulder
-      year: 2022-Actual
+    - title: University of Colorado Boulder
+      institution: Graduate Research Assistant
+      year: 2022 - Present
       description:
         - Description 1.
         - Description 2.
@@ -42,58 +42,58 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Graduate Research Assistant
-      institution: Texas A&M University
-      year: 2020-2022
+    - title: Texas A&M University
+      institution: Graduate Research Assistant
+      year: 2020 - 2022
       description:
-        - Description 1.
-        - Description 2.
-    - title: Technical Assistant
-      institution: Laboratorio Nacional de Vivienda y Comunidades Sustentables
-      year: 2019-2020
+        - Study that analyzed how the variability of precipitation events rate and frequency affect the perfonace of enhanced infiltration structures using data from a pilot study carried out in Harris County, TX. Resulted in Masters Thesis.
+    - title: Laboratorio Nacional de Vivienda y Comunidades Sustentables
+      institution: Technical Assistant
+      year: 2019 - 2020
       description:
-        -
-        -
-    - title: Summer Intern
-      institution: Universidad Autónoma de Baja California
-      year: 2015-2018
+        - Study that analyzed the conditions of the Mololoa river in Tepic, Nayarit in terms of water quantity, water quality, and the urbanization on the floodplain. From the findings some recommendations were given. Resulted in a report.
+        - Projects that aimed to improve the situation of vulnerable sub-urban communities with the implementation of green infrastructure. This resulted in several reports.
+    - title: Universidad Autónoma de Baja California
+      institution: Summer Intern
+      year: 2015 - 2018
       description:
-      -
-      -
+      - Project to monitor the conditions of the Colorado River Delta and the aquifers in the Mexicali Valley. For this, periodical streamflow and piezometers measurements were conducted. This resulted in a report.
 
 
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: University of Colorado Boulder
-      year: 2015-now
+    - title: Graduate Teaching Assistant
+      institution: University of Colorado Boulder
+      year: 2022
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
     - title: Universidad de Guadalajara
+      
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Service
   type: time_table
   contents:
-    - title: Graduate Research Assistant
+    - title: Mentee
       institution: Clean Water Science Network
-      year: 2022-Actual
+      year: 2022 - Present
       description:
-        - Description 1.
+        - M
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Asociación Mexicana de Sistemas de Captación de Agua de Lluvia
+    - title: Academic Assistant
       institution: Asociación Mexicana de Sistemas de Captación de Agua de Lluvia
-      year: 2018-2023
+      year: 2018 - 2023
       description:
         - Description 1.
         - Description 2.
-    - title: 
-      institution: Instituto de Investigaciones Tecnológicas A.C.
-      year: 2017-2019
+    - title: Technical Assistant
+      institution: Instituto de Investigaciones Tecnológicas del Agua A.C.
+      year: 2017 - 2019
       description:
         -
         -
