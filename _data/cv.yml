@@ -62,20 +62,24 @@
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: Graduate Teaching Assistant
-      institution: University of Colorado Boulder
+    - title: University of Colorado Boulder
+      institution: Graduate Teaching Assistant
       year: 2022
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
     - title: Universidad de Guadalajara
-      
-      year: 2015-now
+      institution: Main Instructor
+      year: 2019 - 2020
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Universidad de Guadalajara
+      institution: Teaching Assistant
+      year: 2019 - 2020
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Service
   type: time_table
   contents:
-    - title: Mentee
-      institution: Clean Water Science Network
+    - title: Clean Water Science Network
+      institution: Mentee
       year: 2022 - Present
       description:
         - M
@@ -84,14 +88,14 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Academic Assistant
-      institution: Asociación Mexicana de Sistemas de Captación de Agua de Lluvia
+    - title: Asociación Mexicana de Sistemas de Captación de Agua de Lluvia
+      institution: Academic Assistant
       year: 2018 - 2023
       description:
         - Description 1.
         - Description 2.
-    - title: Technical Assistant
-      institution: Instituto de Investigaciones Tecnológicas del Agua A.C.
+    - title: Instituto de Investigaciones Tecnológicas del Agua A.C.
+      institution: Technical Assistant
       year: 2017 - 2019
       description:
         -
