@@ -2,7 +2,7 @@
   type: list
   contents:
     - santiago.ramireznunez@colorado.edu
-    - Boulder, CO 80303
+      Boulder, CO 80303
 
 - title: Education
   type: time_table
@@ -12,7 +12,7 @@
       year: Exp. 2026
       description:
         - Hydrology, Water Resources and Environmental Fluid Mechanics
-        - Advisor: Dr Aditi Bhaskar
+        - Advisor Dr Aditi Bhaskar
         - title: Description 3.
           contents:
             - Sub-description 1.
@@ -22,7 +22,7 @@
       year: 2022
       description:
         - Thesis "Analyzing the Effects of Variability of Precipitation on the Performance of Enhanced Infiltration Systems in Harris County, TX"
-        - Advisor: Dr Gretchen Miller
+        - Advisor Dr Gretchen Miller
     - title: Universidad de Guadalajara
       institution: B.S. Civil Engineering
       year: 2018
