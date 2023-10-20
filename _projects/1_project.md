@@ -4,7 +4,7 @@ title: Urban Streamflow
 description: Understanding the effects of urbanization on streamflow in the Denver Metro Area
 #img: assets/img/12.jpg
 importance: 1
-category: Research
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

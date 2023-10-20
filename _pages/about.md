@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I enjoy working around water issues, particularly interested in urban hydrology and water management in urban environments. Currently a graduate research assistant at University of Colorado Boulder in the Department of Civil, Environmental and Architectural Engineering, working at [Dr Aditi Bhaskar's lab](https://aditibhaskar.com/).
+I enjoy working on water issues, particularly those related to urban hydrology and water management in urban environments. Currently a Graduate Research Assistant at University of Colorado Boulder in the Department of Civil, Environmental and Architectural Engineering, working at [Dr Aditi Bhaskar's lab](https://aditibhaskar.com/).
