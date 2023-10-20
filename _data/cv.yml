@@ -12,10 +12,6 @@
       description:
         - Hydrology, Water Resources and Environmental Fluid Mechanics
         - Advisor Dr Aditi Bhaskar
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Texas A&M Univeristy
       institution: M.S. Water Management & Hydrological Sciences
       year: 2022
@@ -35,12 +31,8 @@
       institution: Graduate Research Assistant
       year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        -
+        -
     - title: Texas A&M University
       institution: Graduate Research Assistant
       year: 2020 - 2022
@@ -65,49 +57,51 @@
     - title: University of Colorado Boulder
       institution: Graduate Teaching Assistant
       year: 2022
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: AREN 2050 - Building Materials and Systems
     - title: Universidad de Guadalajara
       institution: Main Instructor
       year: 2019 - 2020
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: 
+      - Mathematics for Architecture
+      - Basis of Structures
+      - Design of Concrete Structures
     - title: Universidad de Guadalajara
       institution: Teaching Assistant
       year: 2019 - 2020
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: 
+      - Mathematics for Architecture
+      - Hyraulic, Sanitary, and Electrical Systems
 
 - title: Service
   type: time_table
   contents:
     - title: <a href='https://www.cleanwaterscience.org/'>Clean Water Science Network</a>
-      institution: Mentee
+      institution: Mentor
       year: 2022 - Present
       description:
-        - M
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Mentoring program between graduate students in the US and undergraduate students in Latin America interested in applying for graduate school in the US.
     - title: <a href='https://amscall.org.mx/'>Asociación Mexicana de Sistemas de Captación de Agua de Lluvia</a>
       institution: Academic Assistant
       year: 2018 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Certification program to train people for the design, construction and inspection of rainwater harvesting systems.
     - title: <a href='https://www.iitaac.org.mx/'>Instituto de Investigaciones Tecnológicas del Agua A.C.</a>
       institution: Technical Assistant
       year: 2017 - 2019
       description:
-        -
-        -
+        - Evaluation of the performance of different hydraulic infrastructure by hydrologic and hydraulic modelling.
+        - Participation in events for the awareness of water issues in Mexican cities.
 
 
 - title: Publications
   type: list
   contents:
+    - Zúñiga-Estrada, M. A., Lizárraga-Mendiola, L., Bigurra-Alzati, C. A., Aldana-Alonso, S. E., **Ramírez-Núñez, J. S.**, & Vázquez-Rodríguez, G. A. (2022). Preliminary Model-Based Evaluation of Water Conservation Strategies in a Semi-Arid Urban Zone. Land, 11(1). [https://doi.org/10.3390/land11010101](https://doi.org/10.3390/land11010101)
 
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - R & Matlab
+    - SWMM
+    - Surveying, drone mapping, hydrology-related field work

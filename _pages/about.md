@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Colorado Boulder</a>. santiago.ramireznunez@colorado.edu
+subtitle: University of Colorado Boulder | santiago.ramireznunez@colorado.edu
 
 profile:
   align: right
